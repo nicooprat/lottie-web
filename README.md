@@ -290,6 +290,7 @@ my email is **hernantorrisi@gmail.com**
 ## Notes
 - If you want to modify the parser or the player, there are some gulp commands that can simplify the task
 - look at the great animations exported on codepen [See examples on codepen.](http://codepen.io/collection/nVYWZR/)
+- Get some examples on [LottieFiles](https://www.lottiefiles.com/)
 - gzipping the animation jsons and the player have a huge reduction on the filesize. I recommend doing it if you use it for a project.
 
 ## Issues
